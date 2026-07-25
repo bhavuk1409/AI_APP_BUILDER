@@ -1,4 +1,4 @@
-# AI App Builder — Multi-Agent Code Generator
+# Multi-Agent Code Generator
 
 A three-agent **LangGraph** pipeline that takes a one-line project idea and
 turns it into a working codebase on disk — no scaffolding template, no
